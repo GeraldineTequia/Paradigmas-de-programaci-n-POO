@@ -13,6 +13,7 @@ console.log ( `hola mi nombre es: ${nombre}  ${apellido} y tengo ${edad} años` 
     return valor * valor ;
 }
 
-
+let resultado= multiplicar(5)*num;
+console.log(resultado)
 
 
